@@ -17,7 +17,7 @@ https://github.com/Alysx-4/My-Diary-)
 <br>
 
 
-<h2>User Story<h2> 
+<h2>User Story</h2> 
 As a user, I would like to have an application whereby I am able to submit entries privately and at the same time be able to either edit or delete them as and when I like. 
 
 <br>
